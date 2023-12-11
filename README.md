@@ -17,7 +17,7 @@ Puedes crear una calculadora web o bien crear una versión de Aplicación Móvil
 Javascript, css, html
 
 ## Screenshots y vista previa
-Screenshots o enlace a la vista previa del trabajo finalizado
+(https://github.com/Micapedemonti/calculadora/blob/master/calculadora.png)
 
 ## Instalación
 1_ En tu consola predeterminada debes escribir el siguiente comando git clone https://github.com/Micapedemonti/calculadora.git
